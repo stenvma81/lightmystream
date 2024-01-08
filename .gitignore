@@ -43,6 +43,7 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
+my_streamlit/
 nosetests.xml
 coverage.xml
 *.cover
